@@ -10,6 +10,7 @@ Some of the best explanations use a bottom up approach and start with an analogy
 A key point that contributes to the effectiveness of an explanation are the quality of examples. The 2 articles we contrasted in class used very different examples in their explanation. Unanimously the class confirmed that examples that were straight forward, interactive, visited from all possible angles were the preferred choice. 
 
 And don't forget this useful Acronym that our instruction told us about! 
+
 ADEPT: 
 * Analogy 
 * Diagram
@@ -19,4 +20,4 @@ ADEPT:
 
 Don't be afraid to make it playful. The more effective explanation used in class was fun, upbeat, and it was delivered in a less dry manner. 
 
-Good luck and Happy Explaining!
+Good luck and happy explaining!
