@@ -42,7 +42,7 @@ And this is the *Alternate Hypothesis* – this is the opposite of the null,  so
 
 When we prove the alternate hypothesis is correct and “true”, we say we are *"rejecting the null hypothesis"*. 
 
-In the example –  You purchase the toilet.
+    In the example –  You purchase the toilet.
 
 
 ### Terms and Conditionals 
