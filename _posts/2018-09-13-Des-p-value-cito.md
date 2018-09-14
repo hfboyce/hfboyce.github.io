@@ -54,8 +54,11 @@ To makes matters simple - the p value is a conditional probability and in true p
 I am going to explain conditional probability through a quick example.
 
     Let’s say you want to buy paper towels for the kitchen. 
-    The probability of going out and buying paper is going to have a different value than if you are already at the supermarket.
-    For instance, on the weekend I am not as keen on leaving my house simply to get paper towel, however the chance of me buying paper towels given that I am already at the store is much higher. 
+    The probability of going out and buying paper is going to 
+    have a different value than if you are already at the supermarket.
+    For instance, on the weekend I am not as keen on leaving my house 
+    simply to get paper towel, however the chance of me buying paper towels 
+    given that I am already at the store is much higher. 
 
 in this case:
 
@@ -80,7 +83,7 @@ Or less formally:
 
 $P(obtaining results pointing to more happening |nothing happens ) = p value $
 
-In plain English this is like saying "The probability of getting results that differ from our current ones given that everything should stay the same." 
+In plain English this is like saying "The probability of getting results that differ from our current ones given that everything should stay the same". 
 
 
 ### To "p" or not to "p"? 
@@ -130,5 +133,5 @@ So, from now on if somebody asks you if you are having fun learning about Data S
 
 Dorey, F. (2010). In Brief: The P Value: What it is and What Does it Tell you? Clinical Orthopaedic and Related Research. 468(8): 2297–2298. doi:  10.1007/s11999-010-1402-9
 
-Hung, T.Q (2016,March 21). Key to statistical result interpretation: P-value in plain English. Retrieved from https://www.students4bestevidence.net/p-value-in-plain-english-2/
+Hung, T.Q (2016, March 21). Key to statistical result interpretation: P-value in plain English. Retrieved from https://www.students4bestevidence.net/p-value-in-plain-english-2/
 
