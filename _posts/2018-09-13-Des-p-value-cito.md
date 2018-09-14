@@ -2,7 +2,6 @@
 layout: post
 title: Des-p value-cito
 ---
-
 ### P-ardon Me?
 
 Despacito in Spanish means “slowly” which is exactly how this article is attempting to explain this statistics term. 
@@ -41,7 +40,7 @@ And this is the *Alternate Hypothesis* – this is the opposite of the null,  so
 
      In the example - You need toilet paper.
 
-When we prove the alternate hypothesis is correct and “true”, we say we are *"rejecting the null hypothesis*. 
+When we prove the alternate hypothesis is correct and “true”, we say we are *"rejecting the null hypothesis"*. 
 
 In the example –  You purchase the toilet.
 
