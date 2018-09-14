@@ -63,7 +63,7 @@ $P(buying paper towels| I’m already at the supermarket) >= P(buying paper towe
 
 *( `|`  can be replaced with the words “conditional that”)* 
 
-###### The p value is therefore a conditional probability, conditional on the assumption that our null hypothesis is true. 
+The p value is therefore a conditional probability, conditional on the assumption that our null hypothesis is true. 
 
 
 ### Tell me what it is already! 
@@ -112,7 +112,7 @@ In this case we are saying we are more likely to reject our null hypothesis give
 
 ### From A to P
 
-Generally with tests and experiments there is a critical number that is given as a guideline to where we feel confident the results are true.  A number that divides where we should and should not reject our null - We call this alpha! 
+Generally with tests and experiments there is a critical number that is given as a guideline to where we feel confident the results are true.  A number that divides where we should and should not reject our null - We call this **alpha**! 
 
 If our p value is less than the number given (alpha) – we can successfully say with confidence that something interesting happened! 
 
@@ -126,9 +126,9 @@ So, from now on if somebody asks you if you are having fun learning about Data S
 
 
 
-
-References: 
+##### References: 
 
 Dorey, F. (2010). In Brief: The P Value: What it is and What Does it Tell you? Clinical Orthopaedic and Related Research. 468(8): 2297–2298. doi:  10.1007/s11999-010-1402-9
 
 Hung, T.Q (2016,March 21). Key to statistical result interpretation: P-value in plain English. Retrieved from https://www.students4bestevidence.net/p-value-in-plain-english-2/
+
