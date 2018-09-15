@@ -10,7 +10,7 @@ We are all aware of this little letter’s place in the English Alphabet (the 16
 
 ### The Analogy
 
-Imagine you are walking down an aisle in the supermarket. You are trying to decide if you need to pick up dish soap. You get to the shelf and check the price. If it’s too expensive you decide to forgo this necessity (maybe you don’t even need it, how much do you have left at home?).  The higher the price of dish soap, the less likely you are to decide you need it. When dish soap is a lower price, there’s a greater chance that you will decide that you need it and subsequently purchasing it. 
+Imagine you are walking down an aisle in the supermarket. You are trying to decide if you need to pick up dish soap. You get to the shelf and check the price. If it’s too expensive you decide to forgo this necessity (maybe you don’t even need it, how much do you have left at home?).  The higher the price of dish soap, the less likely you are to decide you need it. When dish soap is a lower price, there’s a greater chance that you will decide that you need it and subsequently purchase it. 
 
 In this example, **price** is an analogy for a **p-value**. 
 
@@ -49,22 +49,22 @@ When we prove the alternate hypothesis is correct and “true”, we say we are 
 
 What does this have to do with p-value?  
 
-To makes matters simple - the p value is a conditional probability and in true probability form, cannot be larger than 1. 
+To make matters simple - the p value is a conditional probability and in true probability form, cannot be negative or larger than 1. 
 
 I am going to explain conditional probability with a quick example.
 
     Let’s say you want to buy paper towels for the kitchen. 
-    The probability of going out and buying paper is going 
+    The probability of going out and buying paper towels is going 
     to have a different value than if you are already at 
     the supermarket.
     For instance, on the weekend I am not as keen on 
-    leaving my house simply to get paper towel, however the
-    chance of me buying paper towels given that I am already
+    leaving my house simply to get paper towels, however the
+    chance of me buying them given that I am already
     at the store is much higher. 
 
 in this case:
 
-<img src="https://github.com/hfboyce/hfboyce.github.io/blob/master/_posts/Conditional-image1.png?raw=true">  
+<img src="https://github.ubc.ca/MDS-2018-19/DSCI_542_lab2_Hfboyce/blob/master/Conditional-image1.png?raw=true">  
 
 *( “|”  can be replaced with the words “conditional that” or "given that")* 
 
@@ -79,11 +79,11 @@ Good question – It is the probability of getting results stronger than or equa
 
 This can be shown by:
 
-<img src="https://github.com/hfboyce/hfboyce.github.io/blob/master/_posts/Conditional-image2.png?raw=true">
+<img src="https://github.ubc.ca/MDS-2018-19/DSCI_542_lab2_Hfboyce/blob/master/Conditional-image2.png?raw=true">
 
 Or less formally: 
 
-<img src="https://github.com/hfboyce/hfboyce.github.io/blob/master/_posts/Conditional-image3.png?raw=true">
+<img src="https://github.ubc.ca/MDS-2018-19/DSCI_542_lab2_Hfboyce/blob/master/Conditional-image3.png?raw=true">
 
 In plain English this is like saying "the probability of getting results that differ from our current results, given that everything should stay the same". 
 
